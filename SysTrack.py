@@ -1,4 +1,4 @@
-# Github: https://github.com/jpdoshi
+# Github: https://github.com/roghelia
 
 # Important:
 # Check out README.md and read it carefully about usage of this script
